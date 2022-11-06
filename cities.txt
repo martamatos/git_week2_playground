@@ -2,3 +2,5 @@ copenhagen
 aarhus
 oslo
 malmo
+odense
+aarhus
