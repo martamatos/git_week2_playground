@@ -1,2 +1,4 @@
 copenhagen
 aarhus
+oslo
+malmo
